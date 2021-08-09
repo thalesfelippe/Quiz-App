@@ -1,10 +1,10 @@
 const quizData = [
     {
-        question: 'How old is Florin?',
-        a: '10',
-        b: '17',
-        c: '26',
-        d: '110',
+        question: 'How old is Thales',
+        a: '17',
+        b: '31',
+        c: '20',
+        d: '24',
         correct: 'c'
 
     }, {
@@ -18,11 +18,11 @@ const quizData = [
 
     }, {
 
-        question: 'Who is the President of US?',
-        a: 'Florin Pop',
-        b: 'Donald Trump',
-        c: 'Ivan Saldano',
-        d: 'Mihai Andrei',
+        question: 'Which programming language Thales is learning?',
+        a: 'Angular',
+        b: 'VueJS',
+        c: 'Python',
+        d: 'ReactJS',
         correct: 'b'
 
     }, {
